@@ -1,0 +1,10 @@
+:root { 
+  --black: #000000;
+  --blueprimaryselected: #dff0ff;
+  --white: #ffffff;
+ 
+  --font-size-xxxl: 35px;
+  --font-size-xxxs: 18px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
